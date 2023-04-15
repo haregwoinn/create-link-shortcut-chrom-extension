@@ -1,0 +1,20 @@
+
+{
+  "manifest_version": 3,
+  "name": "linkstore",
+  "version": "1.0",
+  "description": "Adds a button to the toolbar",
+  "icons": {
+    "16": "ff.png",
+    "48": "ff.png",
+    "128": "ff.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "ff.png",
+      "48": "ff.png",
+      "128": "ff.png"
+    },
+    "default_popup": "popup.html" 
+  }
+}

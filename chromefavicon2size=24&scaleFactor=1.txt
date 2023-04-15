@@ -1,0 +1,1 @@
+chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fyoutube.com%2F

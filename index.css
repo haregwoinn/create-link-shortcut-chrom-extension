@@ -1,0 +1,36 @@
+body{
+width: 100%;
+}
+
+.store{
+  margin: auto;
+  margin-top: 2vh;
+}
+img{
+     height: 60px;
+     width: 60px;
+     border-radius: 50%;
+   }
+.card-header{
+    background-color: cornflowerblue;
+   }
+.urlcontainer{
+  width: 90%;
+  margin: auto;
+  margin-top: 5%;
+
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.columenbox{
+  text-align: center;
+  margin: 15px;
+  border-bottom: 1px solid rgb(6, 6, 40);
+}
+
+#linkname{
+  color: white;
+  
+}
